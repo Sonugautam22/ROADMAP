@@ -1,1 +1,1 @@
-# ROADMAP
+“Hi everyone, I’m a Data Analyst enthusiast, and I’ve created this roadmap to help beginners understand the right path to start and grow in data analytics. I hope this guide makes your learning journey easier and more structured.”
